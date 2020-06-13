@@ -136,4 +136,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/.history
+
 .history/
+slack_api_token
+run.sh
